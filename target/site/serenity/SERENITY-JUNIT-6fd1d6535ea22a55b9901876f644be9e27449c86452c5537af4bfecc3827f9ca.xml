@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="5" failures="0" name="DrivenDataTest.DrivenData_Login" skipped="0" tests="5" time="7.23" timestamp="2022-03-19 06:24:12"><testcase classname="DrivenDataTest.DrivenData_Login" name="Data driven test"><error message="@ManagedPages field must be of type Pages" type="net.thucydides.core.steps.InvalidManagedPagesFieldException">@ManagedPages field must be of type Pages</error><system-err>@ManagedPages field must be of type Pages&#13;
+</system-err></testcase></testsuite>
